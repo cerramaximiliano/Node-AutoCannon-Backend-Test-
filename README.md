@@ -1,6 +1,6 @@
 # Node-AutoCannon-Backend-Test-
 
-![autocannon-logo](https://github.com/cerramaximiliano/Node-AutoCannon-Backend-Test/src/autocannon-banner.png)
+![autocannon-banner](https://github.com/cerramaximiliano/Node-AutoCannon-Backend-Test-/assets/65555679/3470e3ca-2e54-41ba-9892-ff8af2bd9ab4)
 
 This is a backend Node js project to test cloud scale load using npm AutoCannon dependence.
 
